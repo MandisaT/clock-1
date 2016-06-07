@@ -1,0 +1,18 @@
+body {
+	background-color: pink;
+}
+
+#clock {
+	background-color: white;
+	color: lightblue;
+	margin: 0 auto;
+	text-align: center;
+	width: 30%;
+	min-width: 350px;
+	font-family: "Courier New", Courier;
+}
+
+h3 {
+	font-size: 2em;
+}
+
